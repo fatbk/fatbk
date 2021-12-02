@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @fatbk
-- 👀 I’m interested in games
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on Apple
-- 📫 How to reach me https://www.facebook.com/phat.nguyentien.581187/
+### [Hướng dẫn tạo website chúc mừng sinh nhật và upload lên host để gởi cho bạn bè || Part 2](https://)
+> Các bạn download source về và làm theo hương dẫn trong video nhé.
 
-<!---
-fatbk/fatbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![cover picture](./img/hpbd2021p2.jpg)
